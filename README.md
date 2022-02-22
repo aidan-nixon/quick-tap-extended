@@ -1,5 +1,5 @@
 # QTExtended
-QTExtended (Quick Tap Extended) is a simple, lightweight Android app with the sole intention of enabling additional functionality through the Google Pixel 6's quick tap settings. 
+QTExtended (Quick Tap Extended) is a simple, lightweight Android app with the sole intention of enabling additional functionality in the Google Pixel 6's quick tap settings. 
 
 In its current release (1.0), the two core additions to quick tap functionality include:
 - Do not disturb - enabling the quick tap functionality to toggle between do not disturb being enabled/disabled - applies according to a user's do not disturb preferences
