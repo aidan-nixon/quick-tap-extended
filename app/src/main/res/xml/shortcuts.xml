@@ -1,0 +1,12 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+            android:shortcutId="settings"
+            android:enabled="true"
+            android:icon="@drawable/outline_settings_24"
+            android:shortcutShortLabel="@string/shortcut_short_label1">
+        <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="quick.tap.qtextended"
+                android:targetClass="quick.tap.qtextended.SettingsActivity" />
+    </shortcut>
+</shortcuts>

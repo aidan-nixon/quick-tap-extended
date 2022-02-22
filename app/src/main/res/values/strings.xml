@@ -1,0 +1,23 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">QTExtended</string>
+
+    <!-- Preference Titles -->
+    <string name="launch_header">LAUNCH OPTIONS</string>
+    <string name="info_header">APP INFORMATION</string>
+
+    <!-- Launch Preferences -->
+    <string name="action_title">Action</string>
+    <string name="toast_title">Toast</string>
+    <string name="toast_summary">Get a toast popup when a quick tap was recognised.</string>
+
+    <!-- About Info -->
+    <string name="about_author">Author</string>
+    <string name="about_author_summary">Aidan Nixon</string>
+    <string name="about_version">Version</string>
+    <string name="about_version_summary">1.0</string>
+    <string name="about_summary">The quick tap options bundled with the latest Pixel 6 devices running Android 12 are limited. This app provides a couple more desirable options. Simply set this app as the app to run in the Quick Tap settings. To access this menu again, and change the QTExtended behaviour, long-press the app icon and click "Settings". You will have to close this settings activity down to get it working.</string>
+
+    <!-- Shortcut Label -->
+    <string name="shortcut_short_label1">Settings</string>
+</resources>

@@ -1,0 +1,47 @@
+<PreferenceScreen
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            app:title="@string/launch_header"
+            app:iconSpaceReserved="false">
+
+        <ListPreference
+                app:key="ACTION"
+                app:title="@string/action_title"
+                app:entries="@array/action_entries"
+                app:entryValues="@array/action_values"
+                app:useSimpleSummaryProvider="true"
+                app:iconSpaceReserved="false"/>
+
+        <SwitchPreference
+                android:key="TOAST"
+                android:title="@string/toast_title"
+                android:defaultValue="true"
+                android:summary="@string/toast_summary"
+                app:iconSpaceReserved="false"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            app:title="@string/info_header"
+            app:iconSpaceReserved="false">
+
+        <Preference
+                android:title="@string/about_author"
+                android:summary="@string/about_author_summary"
+                app:iconSpaceReserved="false"/>
+
+        <Preference
+                android:title="@string/about_version"
+                android:summary="@string/about_version_summary"
+                app:iconSpaceReserved="false"/>
+
+        <Preference
+                android:title="How to use"
+                android:summary="@string/about_summary"
+                app:iconSpaceReserved="false"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
