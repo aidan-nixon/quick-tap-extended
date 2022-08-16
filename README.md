@@ -11,8 +11,8 @@ To begin using the application, first [download](https://github.com/aidan-nixon/
 ### Additional functionality
 Please feel free to create pull requests adding additional functionality to the app.
 
-### Licence
-Unlicense ([LICENCE](https://github.com/aidan-nixon/quick-tap-extended/blob/main/LICENCE)):
+### License
+Unlicense ([LICENSE](https://github.com/aidan-nixon/quick-tap-extended/blob/main/LICENSE)):
 ```
 This is free and unencumbered software released into the public domain.
 
